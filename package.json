@@ -1,0 +1,16 @@
+{
+  "name": "template-script-import-mre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "handlebars": "^4.7.8",
+    "html-bundler-webpack-plugin": "^4.0.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
